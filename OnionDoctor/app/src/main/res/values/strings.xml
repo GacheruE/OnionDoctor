@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Onion Doctor</string>
+
+    <!-- detect disease part-->
+    <string name="buttonSelectPhoto">Select Photo</string>
+    <string name="buttonTakePhoto">Start Camera</string>
+    <string name="buttonDiagnose">Detect</string>
+    <string name="defaultImage">Default image set now...</string>
+    <string name="descriptionImage">View for displaying image</string>
+
+    <string name="showPrecautions">Precaution</string>
+    <string name="open_gallery">OPEN GALLERY</string>
+    <string name="start_camera">START CAMERA</string>
+
+    <string name="message">Message</string>
+    <string name="resultTxt">Your Result</string>
+    <string name="detect_txt">1. First import or capture an image \n2. When is load into the ImageView, you are ready to detect the disease</string>
+
+    <string name="detect_disease">Detect Disease</string>
+    <string name="disease_detector">Disease Detector</string>
+
+    <string name="available_crops"><b>Available Diseases:</b> Onion basal rot, Onion black mould, Onion leaf blight, Onion purple blotch, Onion yellow dwarf</string>
+
+    <string name="apple_healthy">You are going good!!</string>
+
+    <string name="scales">1. Scales: These remain covered inside a hard coating which looks like a waxy scale and infests lower surface of leaves and veins of branches.</string>
+    <string name="thrip">2. Thrips: These are minute sucking insects that mainly attack tender leaves, twigs and flower buds, making the affected plants weak with burnt appearance.</string>
+    <string name="aphids">3. Aphids: These brownish or green insects suck sap from tender shoots, leaves and flower buds. The affected plant becomes weak and retards in growth.</string>
+    <string name="mealybugs">4. Mealybugs: These are small fleshy insects which remain covered in white, wooly and waxy secretions. Generally, older plants are affected.</string>
+    <string name="whitefiles">5. Whiteflies: These are tiny insects, white in color and are very active in damp and dark conditions.</string>
+    <string name="spider_mites">6. Spider-Mites: This is a minute dot sized dangerous, shoot sucking pest, red in color, almost invisible to the naked eyes, resembling the spider but not an actual spider.</string>
+    <string name="caterpillr">7. Caterpillars: Various caterpillars feed on foliage, they damage the leaves by feeding continuously.</string>
+    <string name="leaf_bettle">8. Leaf Beetles and Weevils: These leaf infesting flying insects are considered as serious pests on flowering plants like Roses.</string>
+    <string name="cut_worms">9. Cut worms: This bug remains in the soil and attacks the plant at ground level.</string>
+    <string name="leaf_miner">10. Leaf-miners: The larvae of theses insects mine into leaves between tissue layers, leaving excreta on leaf surface and creating typical white patterns on leaves.</string>
+
+
+    <string name="health_check">Health Check</string>
+    <string name="health_check_tag">Tale a picture of your crop to detect diseases and receive treatment advice</string>
+    <string name="community">Community</string>
+    <string name="basal_rot"> \u25CF Field sanitation - destruction of infected plant debris \n \u25CF Soil drenching - COC-0.25% \n \u25CF Pre planting treatment of bulbs - benomyl 15%+ mancozeb 60% \n \u25CF Local Bellary, Poona Red Globe, Patna Red, White Large - resistant varieties</string>
+    <string name="black_mould"> \u25CF Rapid and thorough curing \n \u25CF Storage - good ventilation \n \u25CF Temp - just above 0°C</string>
+    <string name="leaf_blight"> \u25CF Isolate seed fields from fresh-market or processing onion fields, since bulbs are a major source of airborne Botrytis spores. \n \u25CF To reduce the amount of sclerotia in the soil, rotate away from Allium crops for three years. \n\t \u25CF Destroy volunteer and cull onions during this period. \n \u25CF Plant with single row spacing at least 12 inches apart to speed up leaf drying and reduce severity of the disease. \n \u25CF Time sprinkler irrigation to prevent extended leaf wetness and maximize leaf drying between irrigation events.</string>
+    <string name="purple_blotch"> \u25CF Seed treatment - thiram @ 2.5g/kg of seed \n \u25CF Three sprays  of Copper oxychloride - 0.25%, Chlorothalanil - 0.2% and Zineb - 0.2% \n \u25CF Mancozeb - 0.2% \n \u25CF Varieties - New Selection, Red Creole - resistant</string>
+    <string name="yellow_dwarf">Use true onion seed (rather than sets) and use virus-free planting stock. In onion, indexing for the virus and meristem tip culture eliminates the virus. Rogue (remove) infected plants.  \n \nNo pesticides control this disease. Controlling aphids also does not prevent the disease because they retain the virus for a very short period of time and quickly transmit the virus as they move through the crop in search of preferred hosts.</string>
+
+</resources>
